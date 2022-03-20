@@ -93,7 +93,6 @@ func main() {
 			"message": "Inserted successfully",
 		})
 
-		// fmt.Println(string(value[0]), string(value[1]), string(value[2]))
 		c.JSON(200, book)
 	})
 
