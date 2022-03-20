@@ -1,2 +1,2 @@
 # REST_API
-REST API using Gol with CRUD operations
+REST API using Gin framework of Golang 
