@@ -45,7 +45,7 @@ func main() {
 			}
 			books = append(books, book)
 
-			// fmt.Printf("ID: '%s', Title: '%s', Author: '%s''\n'", book.ID, book.Title, book.Author)
+			
 		}
 
 		c.JSON(200, books)
